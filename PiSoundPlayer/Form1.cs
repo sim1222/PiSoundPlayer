@@ -70,7 +70,5 @@ namespace PiSoundPlayer
             axWindowsMediaPlayer1.settings.autoStart = false;
             axWindowsMediaPlayer1.URL = filebox.Text;
         }
-
-
     }
 }
